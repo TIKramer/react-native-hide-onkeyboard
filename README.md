@@ -11,7 +11,7 @@ npm install react-native-hide-onkeyboard
 ## Usage
 
 ```js
-import { HideOnkeyboard, ShowOnkeyboard } from "react-native-hide-onkeyboard";
+import { HideOnKeyboard, ShowOnKeyboard } from "react-native-hide-onkeyboard";
 
 // ...
 
