@@ -2,13 +2,28 @@
 
 Hide or Show a view when the keyboard is present
 
-## Installation
 
-```sh
+## Getting started 👨‍🏫
+
+
 npm install react-native-hide-onkeyboard
-```
+
+or
+
+
+
+yarn add @ react-native-hide-onkeyboard
 
 ## Usage
+### Import 
+
+```javascript
+import { HideOnKeyboard, ShowOnKeyboard } from "react-native-hide-onkeyboard";
+```
+### Example
+Add the component and 
+place any views you want to hide inside. 
+Here I am hiding the text view when the keyboard is opened.
 
 ```js
 import { HideOnKeyboard, ShowOnKeyboard } from "react-native-hide-onkeyboard";
@@ -28,7 +43,14 @@ import { HideOnKeyboard, ShowOnKeyboard } from "react-native-hide-onkeyboard";
     </ShowOnKeyboard>
 
 ```
+## Styling
 Styles: You can style just like you would with a normal react native View component
+
+
+## Demo
+
+<p float="left">
+	<img src="https://github.com/TIKramer/react-native-hide-onkeyboard/blob/main/screenshots/demoSearch.gif" width="300" height="650">
 
 
 ## Contributing
