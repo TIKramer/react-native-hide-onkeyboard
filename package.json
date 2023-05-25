@@ -1,6 +1,6 @@
 {
   "name": "react-native-hide-onkeyboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hide or Show a view when the keyboard is present",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -32,8 +32,14 @@
   },
   "keywords": [
     "react-native",
+    "keyboard",
+    "hide",
+    "show",
+    "android",
     "ios",
-    "android"
+    "hide keyboard",
+    "show keyboard",
+    "react native keyboard"
   ],
   "repository": "https://github.com/TIKramer/react-native-hide-onkeyboard",
   "author": "Thomas Kramer <kramer.ian.thomas@gmail.com> (https://github.com/TIKramer)",
